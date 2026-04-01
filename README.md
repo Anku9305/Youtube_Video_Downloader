@@ -6,7 +6,8 @@ A simple and clean web-based YouTube Video Downloader built with **Python** and 
 
 ## 🖥️ Preview
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot1.png)
+![App Screenshot](Screenshot2.png)
 
 ---
 
